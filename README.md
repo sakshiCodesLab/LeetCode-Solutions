@@ -12,9 +12,10 @@ This repository contains my Java solutions for LeetCode problems. I upload my so
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 7 |
-| 🟡 Medium | 1 |
+| 🟢 Easy | 30 |
+| 🟡 Medium | 4 |
 | 🔴 Hard | 0 |
+| ⚪Total | 34 |
 
 ## 📂 Folder Structure
 
