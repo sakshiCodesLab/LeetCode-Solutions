@@ -21,6 +21,11 @@ This repository contains my Java solutions for LeetCode problems. I upload my so
 
 ```text
 LeetCode-Solutions
+│── Basic-Coding-Questions
+│   ├── Numbers
+│   ├── Strings
+│   └── Arrays
+│
 │── Easy
 │── Medium
 └── Hard
@@ -29,6 +34,7 @@ LeetCode-Solutions
 ## 🎯 Purpose
 
 * Practice Data Structures and Algorithms
+* Strengthen Java coding fundamentals
 * Improve problem-solving skills
 * Prepare for coding interviews
 * Maintain a collection of Java solutions
