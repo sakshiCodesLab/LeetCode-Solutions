@@ -6,16 +6,16 @@ This repository contains my Java solutions for LeetCode problems. I upload my so
 
 ## 📌 Language
 
-- Java
+* Java
 
 ## 📊 Progress
 
-| Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy | 30 |
-| 🟡 Medium | 4 |
-| 🔴 Hard | 0 |
-| ⚪Total | 34 |
+| Difficulty  | Solved |
+| ----------  | ------ |
+| 🟢 Easy     |  38     |
+| 🟡 Medium   |  16     |
+| 🔴 Hard     |  0      |
+| ⚪ Total    |  54     |
 
 ## 📂 Folder Structure
 
@@ -28,10 +28,11 @@ LeetCode-Solutions
 
 ## 🎯 Purpose
 
-- Practice Data Structures and Algorithms
-- Improve problem-solving skills
-- Prepare for coding interviews
-- Maintain a collection of Java solutions
+* Practice Data Structures and Algorithms
+* Improve problem-solving skills
+* Prepare for coding interviews
+* Maintain a collection of Java solutions
 
 ---
+
 ⭐ Thank you for visiting my repository!
